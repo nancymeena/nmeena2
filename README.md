@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nancy Meena
 - 👀 I’m interested in Astronomy
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on the MP 
 - 📫 How to reach me nmeena2@illinois.edu
 
 <!---
