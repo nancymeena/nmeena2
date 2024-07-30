@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nancy Meena
-- 👀 I’m interested in Astronomy
+- 👀 I’m interested in Astrophysics
 - 📫 How to reach me: nmeena0731@gmail.com
 
 <!---
